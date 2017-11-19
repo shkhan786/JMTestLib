@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JMTestLib_Example' do
+  pod 'JMTestLib', :path => '../'
+
+  target 'JMTestLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
