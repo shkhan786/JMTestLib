@@ -22,7 +22,7 @@ pod 'JMTestLib'
 
 ## Author
 
-shkhan786, haider.khan@alcordtechnologies.com
+shkhan786, shkhan786haider@gmail.com
 
 ## License
 

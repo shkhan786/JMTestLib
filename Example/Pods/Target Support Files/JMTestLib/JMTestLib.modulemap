@@ -1,0 +1,6 @@
+framework module JMTestLib {
+  umbrella header "JMTestLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

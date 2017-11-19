@@ -24,9 +24,9 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/shkhan786/JMTestLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'shkhan786' => 'haider.khan@alcordtechnologies.com' }
+  s.author           = { 'shkhan786' => 'shkhan786haider@gmail.com' }
   s.source           = { :git => 'https://github.com/shkhan786/JMTestLib.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  # s.social_media_url = 'https://twitter.com/shkhan786haider'
 
   s.ios.deployment_target = '8.0'
 
